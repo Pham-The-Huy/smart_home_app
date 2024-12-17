@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1070830866614",
+    "firebase_url": "https://smart-h-ec86f-default-rtdb.firebaseio.com",
+    "project_id": "smart-h-ec86f",
+    "storage_bucket": "smart-h-ec86f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070830866614:android:12785bf730434274049617",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk764earabyKZ1-JwE29U90JvO0PbyHCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
